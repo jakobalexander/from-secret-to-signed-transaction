@@ -8,18 +8,15 @@ To check whether you have it installed go to your terminal, type “git” and h
 
 ![image](./images/git.png)
 
-### Step 2: Github
 
-[Create a GitHub account](https://github.com/join) if you don’t already have one.
-
-### Step 3: Python
+### Step 2: Python
 
 Go to your terminal, type “python3” and hit enter. If you don’t see a “python prompt” (see pic below) then you need to [install Python 3](https://docs.python-guide.org/starting/installation/). Hit control-d or call the python `exit()` function to exit.
 
 ![image](./images/prompt.png)
 
 
-### Step 4: Clone the Project with Git, install dependencies, and run it
+### Step 3: Clone the Project with Git, install dependencies, and run it
 
 For Mac / Linux, open your terminal and execute the following commands:
 
