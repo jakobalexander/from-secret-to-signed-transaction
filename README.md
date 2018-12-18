@@ -32,8 +32,8 @@ jupyter notebook
 For Windows, there are 2 options. I recommend you install the [Windows Linux Subsystem](https://docs.microsoft.com/en-us/windows/wsl/install-win10) and follow the instructions above. Another option is to open PowerShell and execute the following commands:
 
 ```
-git clone https://github.com/superquest/digital-cash.git
-cd .\digital-cash\
+git clone https://github.com/jakobalexander/from-secret-to-signed-transaction
+cd from-secret-to-signed-transaction
 py -m venv venv
 .\venv\Scripts\activate
 python -m pip install --upgrade pip
