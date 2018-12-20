@@ -43,4 +43,4 @@ jupyter notebook
 
 This will open up your web browser to a page that looks like the image below. This is [Jupyter Notebook](http://jupyter.org/), which is basically a little website that’s run on only your computer.
 
-Click the "From_Secret_To_Signed_Transaction_Workbook.ipynb" link to follow along with this first lesson.
+Click the "from_secret_to_signed_transaction_workbook.ipynb" link to follow along with this first lesson.
